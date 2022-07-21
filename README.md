@@ -1,3 +1,6 @@
+# Starting
+- `source start.sh`
+
 ### 6.824 Distributed System
 ----------------------------
 
